@@ -1,0 +1,43 @@
+/* css yorum satiri */
+
+.gradient{
+   background: linear-gradient(rgb(71, 153, 153),rgb(73, 142, 142)); 
+}
+
+.btn{
+  padding: 10px 20px;  
+  border-radius: 25px;
+  color: white;
+  text-decoration: none;
+}
+
+
+.clearfix{
+    clear: both;
+}
+
+.box{
+    width: 800px;
+    padding: 10px;
+    margin: 10px;
+}
+
+body {
+   text-align: left;
+   align-items:flex-start;
+  
+    background-color: white;
+    font-family: "Roboto", sans-serif;
+}
+div{
+    background-color: rgb(198, 176, 119);
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    color:black;
+    font-size:10px;
+}
+
